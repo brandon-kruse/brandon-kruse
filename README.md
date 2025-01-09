@@ -60,8 +60,8 @@ My journey through college has given me a desire to put what I learned into prac
 </div>
 
 ## Upcoming Projects
-- Creating a router from a Lenovo M920Q to handle speeds up to 10Gbps, configured with OPNsense running on Proxmox
+- Turning a Lenovo M920Q into a router that can handle speeds up to 10Gbps, configured with OPNsense running on Proxmox
 - Configuring my Dell PowerEdge R720XD, Brocade ICX6610, and Lenovo M920Q (router) for 10Gbps using fiber
 - Creating a NAS
-- Creating a SIEM using Elastic Search, Log Stash, and Kibana
+- Creating a SIEM
 - Self-hosting game servers using Pterodactyl
